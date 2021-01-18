@@ -12,7 +12,7 @@ async function getHTML(productURL) {
         .catch(function (error) {
             console.log(error);
         })
-    if(productURL.contains("amazon")){
+    if(productURL.includes("amazon")){
        console.log(html)
        }
     return html;
