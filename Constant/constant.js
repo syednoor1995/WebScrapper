@@ -27,9 +27,9 @@ const constant = {
 }
 
 const url = [
-    `https://www.amazon.ae/Apple-iPhone-Pro-Facetime-International/dp/B08L5NRZNW/ref=sr_1_1?crid=14588A998DKMZ&dchild=1&keywords=iphone%2B12%2Bpro%2B256gb&qid=1610906632&sprefix=iphone%2B12%2Bpro%2B128%2Caps%2C283&sr=8-1&th=1`
-,`https://www.amazon.ae/Apple-iPhone-Pro-Facetime-International/dp/B08L5NJG62/ref=sr_1_1?crid=14588A998DKMZ&dchild=1&keywords=iphone%2B12%2Bpro%2B256gb&qid=1610906632&sprefix=iphone%2B12%2Bpro%2B128%2Caps%2C283&sr=8-1&th=1`
-,`https://www.amazon.ae/Apple-iPhone-Pro-Facetime-International/dp/B08L5Q2TJ7/ref=sr_1_1?crid=14588A998DKMZ&dchild=1&keywords=iphone%2B12%2Bpro%2B256gb&qid=1610906632&sprefix=iphone%2B12%2Bpro%2B128%2Caps%2C283&sr=8-1&th=1`
+    `https://www.amazon.ae/Apple-iPhone-Pro-Facetime-International/dp/B08L5NRZNW/ref=sr_1_1?crid=3C01OWG04BADS&dchild=1&keywords=iphone%2B12%2Bpro%2B128gb%2Bpacific%2Bblue&qid=1610962391&sprefix=iphone%2B12%2Bpro%2B128gb%2Caps%2C704&sr=8-1&th=1`
+,`https://www.amazon.ae/Apple-iPhone-Pro-Facetime-International/dp/B08L5NJG62/ref=sr_1_1?crid=3C01OWG04BADS&dchild=1&keywords=iphone%2B12%2Bpro%2B128gb%2Bpacific%2Bblue&qid=1610962391&sprefix=iphone%2B12%2Bpro%2B128gb%2Caps%2C704&sr=8-1&th=1`
+,`https://www.amazon.ae/Apple-iPhone-Pro-Facetime-International/dp/B08L5Q2TJ7/ref=sr_1_1?crid=3C01OWG04BADS&dchild=1&keywords=iphone%2B12%2Bpro%2B128gb%2Bpacific%2Bblue&qid=1610962391&sprefix=iphone%2B12%2Bpro%2B128gb%2Caps%2C704&sr=8-1&th=1`
 
 ,`https://www.noon.com/uae-en/iphone-12-pro-with-facetime-128gb-pacific-blue-5g-international-specs/N41247216A/p?o=d697e1dcf653768f`
 ,`https://www.noon.com/uae-en/iphone-12-pro-with-facetime-256gb-pacific-blue-5g-international-specs/N41247235A/p?o=c97b8bfdc0114cba`
