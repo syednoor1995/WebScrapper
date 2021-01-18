@@ -1,7 +1,6 @@
 const constant = {
     "amazon": {
         
-        productURL : `https://www.amazon.ae/Apple-iPhone-Pro-Facetime-International/dp/B08L5NRZNW/ref=sr_1_1?crid=14588A998DKMZ&dchild=1&keywords=iphone+12+pro+256gb&qid=1610906632&sprefix=iphone+12+pro+128%2Caps%2C283&sr=8-1`,
         priceSelector : `#priceblock_ourprice`,
         titleSelector : `#productTitle`,
         descriptionSelector : `#productDescription p`,
@@ -10,7 +9,6 @@ const constant = {
     },
     "noon": {
         
-        productURL : `https://www.noon.com/uae-en/iphone-12-pro-with-facetime-256gb-pacific-blue-5g-international-specs/N41247235A/p?o=cfab59c09cab747b`,
         priceSelector : `.priceNow`,
         titleSelector : `.sc-1vbk2g0-0 h1`,
         descriptionSelector : `.xf6b4m-4 ul`,
@@ -19,7 +17,6 @@ const constant = {
     },
     "sharafdg": {
         
-        productURL : `https://uae.sharafdg.com/product/iphone-12-pro-256gb-silver/?promo=1239780`,
         priceSelector : `.quick-right > div.summary.entry-summary.info-block.clearfix > div.pdp--price-wrp > div > div.product-price > div.price.no-marign > span.total--sale-price`,
         titleSelector : `.quick-right > div.summary.entry-summary.info-block.clearfix > div.mainproduct-info > div > div.product-title > h1`,
         descriptionSelector : `#ccs-inline-content`,
