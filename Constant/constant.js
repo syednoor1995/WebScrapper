@@ -3,7 +3,7 @@ const constant = {
         
         priceSelector : `#priceblock_ourprice`,
         titleSelector : `#productTitle`,
-        descriptionSelector : `#productDescription p`,
+        descriptionSelector : `#productDescription > p`,
         imageSelector : `#landingImage`,
         imageAttr : `data-old-hires`
     },
