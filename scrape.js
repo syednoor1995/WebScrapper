@@ -18,6 +18,7 @@ async function getHTML(productURL) {
 async function getProductData(html, priceSelector, titleSelector, descriptionSelector, imageSelector, imageAttr) {
     const $ = cherrio.load(html)
     console.log($(descriptionSelector).text().trim())
+    console.log(descriptionSelector)
     var productData = {
         price: $(priceSelector).text(),
         productTitle: $(titleSelector).text().trim(),
