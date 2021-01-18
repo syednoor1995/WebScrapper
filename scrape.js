@@ -12,13 +12,15 @@ async function getHTML(productURL) {
         .catch(function (error) {
             console.log(error);
         })
+    if(productURL.contains("amazon"){
+       console.log(html)
+       }
     return html;
 }
 
 async function getProductData(html, priceSelector, titleSelector, descriptionSelector, imageSelector, imageAttr) {
     const $ = cherrio.load(html)
-    console.log($(descriptionSelector).html())
-    console.log(descriptionSelector)
+    
     var productData = {
         price: $(priceSelector).text(),
         productTitle: $(titleSelector).text().trim(),
