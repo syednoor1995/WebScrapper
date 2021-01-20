@@ -33,7 +33,7 @@ const url = [
 
 ,`https://www.noon.com/uae-en/iphone-12-pro-with-facetime-128gb-pacific-blue-5g-international-specs/N41247216A/p?o=d697e1dcf653768f`
 ,`https://www.noon.com/uae-en/iphone-12-pro-with-facetime-256gb-pacific-blue-5g-international-specs/N41247235A/p?o=c97b8bfdc0114cba`
-,`https://www.noon.com/uae-en/iphone-12-pro-with-facetime-512gb-pacific-blue-5g-international-specs/N41247246A/p?o=a3b303431314d9df`
+,`https://www.noon.com/uae-en/iphone-12-pro-max-with-facetime-512gb-gold-5g-international-specs/N41247166A/p?o=fa4f5f69d5ce437f`
 
 ,`https://uae.sharafdg.com/product/iphone-12-pro-512gb-silver/?promo=1480338`
 ,`https://uae.sharafdg.com/product/iphone-12-pro-256gb-gold/?promo=1266239`
