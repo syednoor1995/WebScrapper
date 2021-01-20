@@ -38,7 +38,7 @@ module.exports = {
       price = parseFloat(price.replace(',', ''))
       ProductModel.create({
         web: web,
-        webUrl: data.productURL,
+        webUrl: link,
         storage: storage,
         price: price,
         productTitle: productData.productTitle,
